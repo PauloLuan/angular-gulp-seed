@@ -1,4 +1,6 @@
-## Angular Seed App [![Build Status](https://travis-ci.org/pauloluan/angular-gulp-seed.svg)](https://travis-ci.org/pauloluan/angular-gulp-seed)
+## Angular Seed App 
+
+[![Build Status](https://travis-ci.org/PauloLuan/angular-gulp-seed.svg)](https://travis-ci.org/PauloLuan/angular-gulp-seed)
 
 This project is an application skeleton for a typical AngularJS web app. You can use it to quickly bootstrap your angular webapp projects and dev environment for these projects.
 
