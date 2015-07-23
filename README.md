@@ -1,6 +1,10 @@
 ## Angular Seed App 
 
 [![Build Status](https://travis-ci.org/PauloLuan/angular-gulp-seed.svg)](https://travis-ci.org/PauloLuan/angular-gulp-seed)
+[![Coverage Status](https://coveralls.io/repos/PauloLuan/angular-gulp-seed/badge.svg)](https://coveralls.io/r/PauloLuan/angular-gulp-seed) 
+[![bitHound Score](https://www.bithound.io/github/PauloLuan/angular-gulp-seed/badges/score.svg?)](https://www.bithound.io/github/PauloLuan/angular-gulp-seed/master)
+[![Dependency Status](https://david-dm.org/PauloLuan/angular-gulp-seed.svg "Dependencies Checked & Updated Regularly (Security is Important!)")](https://david-dm.org/PauloLuan/angular-gulp-seed)
+
 
 This project is an application skeleton for a typical AngularJS web app. You can use it to quickly bootstrap your angular webapp projects and dev environment for these projects.
 
